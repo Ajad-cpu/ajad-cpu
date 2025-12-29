@@ -1,4 +1,4 @@
-Hi 👋 I’m Ajad Singh Dinkar — Software Engineer & Competitive Programmer
+Hi 👋 I’m Ajad Singh Dinkar — Web developer and Competitive Programmer
  
 💻 Interests: Full-Stack Development, AI/ML & Problem Solving  
 🏆 Competitive Programmer with top global rankings  
