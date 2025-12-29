@@ -27,7 +27,6 @@
 - **SpotTrack** – Real-time AI multi-object tracking system using YOLO and Deep SORT.  
 - **PixelCraft** – Browser-based image editor focused on speed, privacy, and simplicity.  
 - **DeepShield** – Deep learning system for fake image and video detection.  
-- **ajad-cpu** – Project exploring CPU architecture and instruction execution concepts.  
 
 ---
 
