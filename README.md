@@ -14,4 +14,4 @@ Hi 👋 I’m Ajad Singh Dinkar — Web developer and Competitive Programmer
 
 **Achievements:** Expert @ Codeforces | Knight @ LeetCode | ICPC India 2025 Rank 742  
 
-📫 azadsinghdinkar@gmail.com | LinkedIn | GitHub
+📫 azadsinghdinkar@gmail.com | LinkedIn - https://www.linkedin.com/in/azad-singh-dinkar/ | GitHub - https://github.com/Ajad-cpu/ajad-cpu
