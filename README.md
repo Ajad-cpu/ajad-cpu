@@ -30,15 +30,6 @@
 
 ---
 
-## 💼 Experience
-- **Full Stack Development Intern – BillFree Labs Pvt. Ltd.**  
-  Built REST APIs and responsive web interfaces.  
-
-- **AI & ML Intern – Next24tech Technology & Services**  
-  Developed and trained machine learning models.  
-
----
-
 ## 📫 Contact
 📧 Email: azadsinghdinkar@gmail.com  
 LinkedIn - https://www.linkedin.com/in/azad-singh-dinkar/
