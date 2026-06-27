@@ -1,4 +1,4 @@
-# Hi 👋 I’m Ajad Singh Dinkar
+# Hi 👋 I’m Azad
 
 💻 Passionate Developer focused on **Full-Stack Web Development** and **AI-driven applications**  
 🌱 Passionate about building scalable, efficient, and user-friendly solutions  
