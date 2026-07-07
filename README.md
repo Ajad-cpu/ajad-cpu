@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- Full-Stack Developer with internship experience in web, mobile, and backend development.
+- Full-Stack Developer with experience in web, mobile, and backend development.
 - Worked on AI, RAG systems, REST APIs, and React Native applications.
 - Strong foundation in Data Structures, Algorithms, System Design, and CS fundamentals.
 - Enjoy building efficient, scalable, and user-focused software.
