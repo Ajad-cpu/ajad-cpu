@@ -137,7 +137,7 @@ Deep learning system for fake image and deepfake video detection.
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions%20(Last%2012%20Months)-1%2C234-blue?style=for-the-badge" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajad-cpu&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
