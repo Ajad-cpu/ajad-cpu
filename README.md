@@ -29,24 +29,25 @@
 
 ## 🏆 Competitive Programming
 
-Competitive programming has been an important part of my software engineering journey. I regularly solve algorithmic problems to improve problem-solving ability, coding speed, and understanding of advanced data structures and algorithms.
+I regularly solve algorithmic problems to strengthen problem-solving skills, improve coding speed, and deepen my understanding of Data Structures and Algorithms.
 
-<p align="center">
-  <a href="https://leetcode.com/u/Azad_96/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/azadsinghdinkar_965">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/azad96">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-</p>
+### 🌐 Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/Azad_96/">
-    <img src="https://leetcard.jacoblin.cool/Azad_96?theme=dark&font=Baloo&ext=contest" />
-  </a>
+<p align="left">
+
+<img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="22"/> <strong>LeetCode:</strong>  
+https://leetcode.com/u/Azad_96/
+
+<br><br>
+
+<img src="https://cdn.simpleicons.org/codeforces" alt="Codeforces" width="22"/> <strong>Codeforces:</strong>  
+https://codeforces.com/profile/azadsinghdinkar_965
+
+<br><br>
+
+<img src="https://cdn.simpleicons.org/codechef" alt="CodeChef" width="22"/> <strong>CodeChef:</strong>  
+https://www.codechef.com/users/azad96
+
 </p>
 
 
