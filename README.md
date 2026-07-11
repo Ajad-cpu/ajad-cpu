@@ -49,20 +49,6 @@ Competitive programming has been an important part of my software engineering jo
   </a>
 </p>
 
-### 💡 Areas of Interest
-
-- Data Structures & Algorithms
-- Dynamic Programming
-- Graph Algorithms
-- Trees & Binary Trees
-- Binary Search
-- Greedy Algorithms
-- Sliding Window
-- Two Pointers
-- Prefix Sum
-- Hashing
-- Bit Manipulation
-- Mathematics & Number Theory
 
 ---
 
