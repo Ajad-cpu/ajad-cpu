@@ -134,10 +134,10 @@ Deep learning system for fake image and deepfake video detection.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Contributions
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajad-cpu&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajad-cpu&theme=tokyonight" />
 </p>
 
 ---
