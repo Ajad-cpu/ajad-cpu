@@ -27,28 +27,13 @@
 
 ---
 
-## 🏆 Competitive Programming
+## 🌐 Coding Profiles
 
-I regularly solve algorithmic problems to strengthen problem-solving skills, improve coding speed, and deepen my understanding of Data Structures and Algorithms.
-
-### 🌐 Coding Profiles
-
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="22"/> <strong>LeetCode:</strong>  
-https://leetcode.com/u/Azad_96/
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/codeforces" alt="Codeforces" width="22"/> <strong>Codeforces:</strong>  
-https://codeforces.com/profile/azadsinghdinkar_965
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/codechef" alt="CodeChef" width="22"/> <strong>CodeChef:</strong>  
-https://www.codechef.com/users/azad96
-
-</p>
+| Platform | Profile |
+|-----------|---------|
+| <img src="https://cdn.simpleicons.org/leetcode" width="20"/> **LeetCode** | https://leetcode.com/u/Azad_96/ |
+| <img src="https://cdn.simpleicons.org/codeforces" width="20"/> **Codeforces** | https://codeforces.com/profile/azadsinghdinkar_965 |
+| <img src="https://cdn.simpleicons.org/codechef" width="20"/> **CodeChef** | https://www.codechef.com/users/azad96 |
 
 
 ---
