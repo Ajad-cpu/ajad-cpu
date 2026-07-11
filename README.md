@@ -35,32 +35,31 @@
 | <img src="https://cdn.simpleicons.org/codeforces" width="20"/> **Codeforces** | https://codeforces.com/profile/azadsinghdinkar_965 |
 | <img src="https://cdn.simpleicons.org/codechef" width="20"/> **CodeChef** | https://www.codechef.com/users/azad96 |
 
-
 ---
 
 ## 💼 Experience
 
-### **Full Stack Developer Intern**  
+### **Full Stack Developer Intern**
 **Vagmine Tech Solutions** *(Jun 2026 – Present)*
 
 - Building React Native mobile applications.
 - Developing scalable full-stack features.
 - Working with modern frontend and backend technologies.
 
-### **Technical Contributor**  
+### **Technical Contributor**
 **Snorkel AI** *(Feb 2026 – Present)*
 
 - Contributing to AI and developer tooling.
 - Working as a freelance technical contributor.
 
-### **SDE Intern**  
+### **SDE Intern**
 **AppSquadz** *(Jan 2026 – Jul 2026)*
 
 - Developed backend services and REST APIs.
 - Built AI-powered RAG solutions using Python and Django.
 - Worked on scalable backend architecture.
 
-### **Associate Developer Intern**  
+### **Associate Developer Intern**
 **Yukti Software** *(Jan 2026 – May 2026)*
 
 - Developed full-stack applications.
@@ -138,11 +137,6 @@ Deep learning system for fake image and deepfake video detection.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ajad-cpu&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajad-cpu&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajad-cpu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -177,10 +171,6 @@ Deep learning system for fake image and deepfake video detection.
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ajad-cpu&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 <p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
