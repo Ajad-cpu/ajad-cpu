@@ -36,7 +36,7 @@
 
 **Web:** React, Next.js, Node.js, Express.js, Flask, Django
 
-**Mobile:** React Native
+**Mobile:** React Native, Flutter, Swift
 
 **AI/ML:** TensorFlow, PyTorch, YOLO, OpenCV, RAG
 
